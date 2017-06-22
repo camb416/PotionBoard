@@ -7,12 +7,12 @@ const int keys[] = {9,3,4,5,6,8};
 int keyStates[NUM_KEYS];
 int prevKeyStates[NUM_KEYS];
 char* keyCodes[] = {
-  "Strategy.\n",
-  "Innovation.\n",
-  "Design.\n",
-  "Production.\n",
-  "Development.\n",
-  "Deployment.\n",
+  "git status\n",
+  "git pull\n",
+  "for(int i=0;i<a.size();i++){\n",
+  "class MyClass{\nMyClass(){}\n~MyClass(){}\nvoid setup(){}\nvoid update(){}\nvoid draw(){}",
+  "In progress.\n",
+  "Fixed.\n",
 };
 int prevState[NUM_KEYS];
 
